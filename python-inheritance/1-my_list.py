@@ -1,7 +1,9 @@
 #!/usr/bin/python3
 """
 1. My list
+Class My_list with a public method that print the list sorted
 """
+
 
 class MyList(list):
     """
